@@ -1,1 +1,10 @@
 # Job_Portal
+on this task we develop a figma design ,it consists of pages (home ,services,jobs,contact us )
+and must notice these things :
+As a visitor user I should see the following in the home page: * Introduction about the site and its goals * The available companies * Available Job posts
+
+As a visitor user (not registered) I should have the ability to register or login
+
+As a visitor user (not registered) I shouldn't have access to the profile page
+
+As a registered user I should have a profile page which contains all the information included in the traditional cv and my saved/ applied jobs.
